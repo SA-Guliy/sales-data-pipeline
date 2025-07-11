@@ -3,4 +3,5 @@ venv/
 logs/
 data/*
 .vscode/
+.DS_Store
 
