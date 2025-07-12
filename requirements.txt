@@ -1,8 +1,5 @@
-configparser==7.2.0
-numpy==2.3.1
 pandas==2.3.1
-python-dateutil==2.9.0.post0
-pytz==2025.2
-six==1.17.0
-tzdata==2025.2
-import==psycopg2
+psycopg2-binary
+configparser==7.2.0
+
+
